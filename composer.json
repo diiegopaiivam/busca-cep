@@ -1,0 +1,16 @@
+{
+    "name": "diego/busca-cep",
+    "description": "Serviço de busca CEP",
+    "authors": [
+        {
+            "name": "Diego Paiva",
+            "email": "diiegopaiivam@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BuscaCep\\": "src/"
+        }
+    }
+}
